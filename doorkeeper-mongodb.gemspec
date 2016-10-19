@@ -5,13 +5,13 @@ require "doorkeeper-mongodb/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "doorkeeper-mongodb"
+  s.name        = "dd-doorkeeper-mongodb"
   s.version     = DoorkeeperMongodb::VERSION
-  s.authors     = ["jasl"]
-  s.email       = ["jasl9187@hotmail.com"]
+  s.authors     = ["greatghoul"]
+  s.email       = ["greatghoul@gmail.com"]
   s.homepage    = "http://github.com/doorkeeper-gem/doorkeeper-mongodb"
-  s.summary     = "Doorkeeper mongoid 2, 3, 4 and mongo_mapper ORMs"
-  s.description = "Doorkeeper mongoid 2, 3, 4 and mongo_mapper ORMs"
+  s.summary     = "This is a doorkeeper-mongodb clone for private usages, DO NOT RELY ON IT"
+  s.description = "This is a doorkeeper-mongodb clone for private usages, DO NOT RELY ON IT"
   s.license     = "MIT"
 
   s.files = Dir["lib/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
